@@ -2,7 +2,7 @@
 🎓 Diploma in Information Technology  
 💡 Passionate about Web Development, WordPress  
 📍 Based in Saoner, Nagpur, Maharashtra  
-📬 Contact: rupaljivtode@gmail.com | 8459940980
+📬 Contact: rupaljivtode@gmail.com | 
 
 ## 🛠 Tech Stack
 - 💻 Languages: HTML, CSS, JavaScript, Python
