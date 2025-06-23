@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Rupal Jivtode
+🎓 Diploma in Information Technology  
+💡 Passionate about Web Development, WordPress  
+📍 Based in Saoner, Nagpur, Maharashtra  
+📬 Contact: rupaljivtode@gmail.com | 8459940980
 
-<!--
-**rupaljivtode03/rupaljivtode03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Tech Stack
+- 💻 Languages: HTML, CSS, JavaScript, Python
+- 🌐 Web: WordPress, XAMPP, GitHub Pages 
+- ⚙️ Tools: Git, VS Code, Canva, ChatGPT, MySQL
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me
+- 🌐 [Portfolio Website](http://localhost/mywebsite)
+- 💼 [LinkedIn] : rupaljivtode)
+- 📸 [Instagram]: rupaljivtode03
+- 🧠 [GitHub] : rupaljivtode03
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- 🎯 Quiz Website (WordPress)
+- 🧩 Game Platform (HTML/CSS/JS)
+- 📊 Portfolio Website (Responsive Design)
+
