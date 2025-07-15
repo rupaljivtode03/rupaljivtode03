@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Rupal Jivtode
 🎓 Diploma in Information Technology  
 💡 Passionate about Web Development, WordPress  
-📍 Based in Saoner, Nagpur, Maharashtra  
+📍 Based in Nagpur, Maharashtra  
 📬 Contact: rupaljivtode@gmail.com | 
 
 ## 🛠 Tech Stack
