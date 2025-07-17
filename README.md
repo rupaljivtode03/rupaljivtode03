@@ -9,10 +9,10 @@
 - 🌐 Web: WordPress, XAMPP, GitHub Pages 
 - ⚙️ Tools: Git, VS Code, Canva, ChatGPT, MySQL
 
-## 🔗 Connect with Me
-- 🌐 [Portfolio Website](http://localhost/mywebsite)
+## 🔗 Connect 
+- 
 - 💼 [LinkedIn] : rupaljivtode)
-- 📸 [Instagram]: rupaljivtode03
+- 
 - 🧠 [GitHub] : rupaljivtode03
 
 ## 📌 Projects
